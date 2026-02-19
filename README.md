@@ -10,7 +10,9 @@
   </span>
 </h1>
 
-
+<p align="center">
+  <img src="https://i.imgur.com/pXlGdMm.png" width="100%" style="border-radius:20px; box-shadow:0 0 25px #00f0ff;">
+</p>
 
 <!-- عبارة الترحيب -->
 <h3 align="center">👋 Welcome, World!</h3>
@@ -43,11 +45,6 @@ I excel at **user-centric design** and **performance optimization**.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALMLK1996&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALMLK1996&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
