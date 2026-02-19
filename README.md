@@ -122,39 +122,3 @@ I excel at **user-centric design** and **performance optimization**.
 ## 🏆 Rare Badge
 <p align="center">
   <img src="https://img.shields.io/badge/Top%201%25%20Developer-Rare%20Badge-gold?style=for-the-badge&logo=star&logoColor=white">
-</p>
-
-<!-- CSS للتأثيرات والحركة -->
-<style>
-@keyframes rgb {
-  0% {background-position:0%}
-  100% {background-position:400%}
-}
-.rgb-text {
-  background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
-  background-size:400%;
-  -webkit-background-clip:text;
-  background-clip:text;
-  color:transparent;
-  animation:rgb 8s linear infinite;
-}
-.social-icons a {
-  display: inline-block;
-  margin: 0 10px;
-  font-size: 40px;
-  color: white;
-  background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet, red);
-  background-size:400%;
-  -webkit-background-clip:text;
-  background-clip:text;
-  color:transparent;
-  animation:rgb 8s linear infinite;
-  transition: transform 0.3s;
-}
-.social-icons a:hover {
-  transform: scale(1.2);
-}
-</style>
-
-<!-- رابط أيقونات Font Awesome (يُفضل وضعه في أعلى الملف، لكن GitHub يسمح به في أي مكان) -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
