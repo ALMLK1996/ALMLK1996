@@ -17,6 +17,11 @@
 <!-- عبارة الترحيب -->
 <h3 align="center">👋 Welcome, World!</h3>
 
+
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -24,6 +29,10 @@ Hello, I'm **Abd almlk**, an experienced web developer passionate about designin
 With five years of experience, I specialize in UI and server development using **HTML, CSS, JavaScript**, and frameworks like **Angular** and **React**.  
 I excel at **user-centric design** and **performance optimization**.
 
+
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
 ---
 
 ## 🌐 Connect With Me
@@ -37,6 +46,10 @@ I excel at **user-centric design** and **performance optimization**.
 </p>
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
+
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -44,7 +57,9 @@ I excel at **user-centric design** and **performance optimization**.
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
 
 ---
 
@@ -57,6 +72,10 @@ I excel at **user-centric design** and **performance optimization**.
 </p>
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
+
 
 ## 🧩 Professional Badges
 <p align="center">
@@ -71,6 +90,10 @@ I excel at **user-centric design** and **performance optimization**.
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge">
 </p>
 
+
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
 ---
 
 ## 🏅 My Badges Collection
@@ -129,6 +152,10 @@ I excel at **user-centric design** and **performance optimization**.
 ## 🏆 Rare Badge
 <p align="center">
   <img src="https://img.shields.io/badge/Top%201%25%20Developer-Rare%20Badge-gold?style=for-the-badge&logo=star&logoColor=white">
+
+<p align="center">
+  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
+</p>
 
 <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">هذا العمل مرخص بموجب </font></font><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">رخصة المشاع الإبداعي نَسب المُصنَّف - غير تجاري - الترخيص بالمثل 4.0 الدولية</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
