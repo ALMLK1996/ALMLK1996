@@ -34,16 +34,27 @@ I excel at **user-centric design** and **performance optimization**.
   <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
 </p>
 ---
-
+```markdown
 ## 🌐 Connect With Me
 
-<p align="center" class="social-icons">
-  <a href="https://www.facebook.com/share/1ASgetd77i/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-  <a href="https://x.com/Almlk_1996?s=20" target="_blank"><i class="fab fa-twitter"></i></a>
-  <a href="https://www.instagram.com/abdo_040?igsh=eWhlZHFpbmFtbnhj" target="_blank"><i class="fab fa-instagram"></i></a>
-  <a href="https://ko-fi.com/jsnsjdnj24375" target="_blank"><i class="fas fa-mug-hot"></i></a>
-  <a href="https://bsky.app/profile/abdalmlk1996.bsky.social" target="_blank"><i class="fab fa-bluesky"></i></a>
+<p align="center">
+  <a href="https://www.facebook.com/share/1ASgetd77i/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/Almlk_1996?s=20" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.instagram.com/abdo_040?igsh=eWhlZHFpbmFtbnhj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://ko-fi.com/jsnsjdnj24375" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://bsky.app/profile/abdalmlk1996.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+  </a>
 </p>
+```
 
 ---
 <p align="center">
