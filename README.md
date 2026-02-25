@@ -33,8 +33,10 @@ I excel at **user-centric design** and **performance optimization**.
 <p align="center">
   <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
 </p>
----
-```markdown
+
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
