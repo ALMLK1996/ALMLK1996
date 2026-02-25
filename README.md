@@ -1,4 +1,5 @@
 <!-- شريط المصابيح المتحرك -->
+
 <p align="center">
   <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
 </p>
@@ -10,9 +11,7 @@
   </span>
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/pXlGdMm.png" width="100%" style="border-radius:20px; box-shadow:0 0 25px #00f0ff;">
-</p>
+[![1771862341132.png](https://i.postimg.cc/Y983j56P/1771862341132.png)](https://postimg.cc/344pcbbj)
 
 <!-- عبارة الترحيب -->
 <h3 align="center">👋 Welcome, World!</h3>
