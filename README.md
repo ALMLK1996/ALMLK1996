@@ -58,10 +58,9 @@ I excel at **user-centric design** and **performance optimization**.
 </p>
 ```
 
----
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
+
+
+ 
 
 
 ## 🛠️ Tech Stack
@@ -84,10 +83,7 @@ I excel at **user-centric design** and **performance optimization**.
   <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge">
 </p>
 
----
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
+
 
 
 ## 🧩 Professional Badges
@@ -104,10 +100,8 @@ I excel at **user-centric design** and **performance optimization**.
 </p>
 
 
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
----
+
+
 
 ## 🏅 My Badges Collection
 <p align="center">
@@ -155,10 +149,6 @@ I excel at **user-centric design** and **performance optimization**.
 
 ---
 
-
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
 
 
 
