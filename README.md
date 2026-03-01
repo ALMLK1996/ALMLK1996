@@ -69,9 +69,7 @@ I excel at **user-centric design** and **performance optimization**.
 </p>
 
 ---
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
+
 
 ---
 
@@ -153,14 +151,7 @@ I excel at **user-centric design** and **performance optimization**.
 <p align="center">
   <img src="https://img.shields.io/badge/Top%201%25%20Developer-Rare%20Badge-gold?style=for-the-badge&logo=star&logoColor=white">
 
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
+
 
 <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">هذا العمل مرخص بموجب </font></font><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">رخصة المشاع الإبداعي نَسب المُصنَّف - غير تجاري - الترخيص بالمثل 4.0 الدولية</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-
-
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
