@@ -15,9 +15,6 @@
 <h3 align="center">👋 Welcome, World!</h3>
 
 
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
 
 ---
 
@@ -27,9 +24,7 @@ With five years of experience, I specialize in UI and server development using *
 I excel at **user-centric design** and **performance optimization**.
 
 
-<p align="center">
-  <img src="https://i.imgur.com/RAGJmQl.gif" width="100%">
-</p>
+
 
 
 
