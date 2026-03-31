@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://i.postimg.cc/yJH5t61m/lightrope-gif.gif" width="100%"/>
+</p>
+
+
+
+
 ![name اخر اصدار  ](https://github.com/user-attachments/assets/aee44671-9e84-4105-9a7a-05b5de082570)
 <!-- شريط المصابيح المتحرك -->
 
@@ -51,7 +58,9 @@ I excel at **user-centric design** and **performance optimization**.
 ```
 
 
-
+<p align="center">
+  <img src="https://i.postimg.cc/yJH5t61m/lightrope-gif.gif" width="100%"/>
+</p>
  
 
 
