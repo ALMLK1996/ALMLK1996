@@ -35,6 +35,15 @@ I excel at **user-centric design** and **performance optimization**.
 
 
 
+<p align="center">
+  <img src="https://i.postimg.cc/FHK4bJBc/Almlk.gif" width="768">
+</p>
+
+
+
+
+
+
 
 ## 🌐 Connect With Me
 
